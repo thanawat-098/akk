@@ -1,0 +1,101 @@
+.add {
+  background: rgb(226, 226, 226);
+  padding: 1vw;
+}
+
+.add-m {
+  font-size: 24px;
+}
+
+.f {
+  margin-top: 1.8vw;
+}
+
+.i-n {
+  margin-left: 0.5vw;
+  padding-left: 0.2vw;
+  padding-right: 0.2vw;
+  width: 14vw;
+  height: 2vw;
+  border: none;
+  outline: none;
+}
+
+.i-n:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(63, 156, 255, 0.989);
+}
+
+.add-name {
+  font-size: 1vw;
+}
+
+.p-name {
+  margin-left: 2vw;
+  font-size: 1vw;
+}
+
+.i-p {
+  margin-left: 0.5vw;
+  padding-left: 0.2vw;
+  padding-right: 0.2vw;
+  width: 14vw;
+  height: 2vw;
+  border: none;
+  outline: none;
+}
+
+.i-p:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(63, 156, 255, 0.989);
+}
+
+.d-i {
+  margin-top: 2vw;
+  display: flex;
+  align-items: center;
+}
+
+.d-name {
+  font-size: 1vw;
+}
+
+.de-p {
+  margin-left: 1.2vw;
+  padding: 0.2vw;
+  border: none;
+  outline: none;
+  width: 14vw;
+  height: 5vw;
+  cursor: pointer;
+}
+
+.de-p:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(63, 156, 255, 0.989);
+}
+
+.i-f {
+  font-size: 1vw;
+}
+
+.i-img {
+  width: 14vw;
+  height: 1.8vw;
+  font-size: 1vw;
+  margin-left: 1vw;
+  border: none;
+  outline: none;
+}
+
+.b-add {
+  margin-top: 3vw;
+  margin-left: 5vw;
+  width: 6vw;
+  height: 2vw;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background: rgb(41, 121, 201);
+  color: rgb(228, 228, 228);
+}
